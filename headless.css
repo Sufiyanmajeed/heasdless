@@ -1,0 +1,367 @@
+.builder {
+  display: flex;
+  max-width: 1200px;
+  width: 100%;
+  height: 76px;
+  justify-content: space-between;
+}
+
+.builder-logo {
+  width: 120px;
+  height: 76px;
+  margin-left: 44px;
+}
+.product {
+}
+.product ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  margin-top: 31px;
+  font-family: Poppins;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+}
+.button1 {
+  display: flex;
+  gap: 40px;
+  margin-left: 600px;
+}
+.talk {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 124px;
+  height: 42px;
+  margin-top: 17px;
+  border-radius: 8px;
+  background: #ac7ef4;
+  cursor: pointer;
+}
+.sign-in {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 111px;
+  height: 42px;
+  margin-top: 17px;
+  border-radius: 8px;
+  background: #ac7ef4;
+  cursor: pointer;
+}
+.choose-skill {
+  display: flex;
+}
+.business {
+  width: 150px;
+  height: 20px;
+  margin-top: 190px;
+  margin-left: 40px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.development {
+  width: 150px;
+  height: 20px;
+  margin-top: 190px;
+  margin-left: 40px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.switch-skill {
+  width: 46px;
+  height: 29px;
+  margin-top: 184px;
+  margin-left: 10px;
+  border-radius: 200px;
+  border: 2px solid #000000;
+}
+.switch-skill-button {
+  width: 21px;
+  height: 21px;
+  margin-top: 3px;
+  margin-left: 4px;
+  border-radius: 50px;
+  background: #ef6c41;
+}
+.the-visual {
+  display: flex;
+}
+.the {
+  width: 85px;
+  height: 60px;
+  margin-top: 26px;
+  margin-left: 44px;
+  font-family: Poppins;
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.visual {
+  width: 136px;
+  height: 60px;
+  margin-top: 26px;
+  font-family: Poppins;
+  font-size: 47px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.arrow-img {
+  width: 136px;
+  height: 60px;
+  margin-top: 31px;
+  margin-left: 5px;
+}
+.headless-cms {
+  display: flex;
+}
+.Headless {
+  width: 183px;
+  height: 60px;
+  margin-left: 44px;
+  font-family: Poppins;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.Cms {
+  width: 148px;
+  height: 60px;
+  font-family: Poppins;
+  font-size: 45px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.hand-img {
+  width: 44px;
+  height: 60px;
+  top: 296px;
+  left: 380px;
+}
+.eltimate {
+  width: 332px;
+  height: 24px;
+  margin-left: 44px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.levrage {
+  width: 403px;
+  height: 72px;
+  margin-left: 44px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.free-talk {
+  display: flex;
+}
+.try-for-free {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 152px;
+  height: 42px;
+  margin-top: 26px;
+  margin-left: 44px;
+  border-radius: 8px;
+  border: 2px;
+  background: #ef6c41;
+  cursor: pointer;
+}
+.talk-to-us2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 152px;
+  height: 42px;
+  margin-top: 26px;
+  margin-left: 18px;
+  border-radius: 8px;
+  border: 2px;
+  background: #000000;
+  color: white;
+  cursor: pointer;
+}
+.everlane-to-petlab {
+  display: flex;
+  max-width: 1200px;
+  width: 100px;
+}
+.everlane {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 44px;
+}
+.zapier {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 100px;
+}
+.jcrew {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 120px;
+}
+.harry {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 140px;
+}
+.serase {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 160px;
+}
+.petlab {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 240px;
+}
+.vista-to-nust {
+  display: flex;
+  max-width: 1200px;
+  width: 100px;
+}
+.vista {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 44px;
+}
+.aloyoga {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 100px;
+}
+.after-pay {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 120px;
+}
+.fablet {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 140px;
+}
+.shopsty {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 160px;
+}
+.nust {
+  width: 111px;
+  height: 56px;
+  margin-top: 67px;
+  margin-left: 240px;
+}
+.made-in-builder {
+  display: flex;
+  width: 150px;
+  height: 43px;
+  margin-top: 23px;
+  margin-left: 20px;
+  border-radius: 75px;
+  border: 1px solid #00000021;
+}
+.made-in-builder img {
+  width: 14px;
+  height: 16px;
+  margin-top: 11px;
+  margin-left: 12px;
+}
+.made-in-builder p {
+  width: 103px;
+  height: 15px;
+  font-family: Poppins;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}
+.message {
+  width: 62px;
+  height: 62px;
+  margin-top: -83px;
+  margin-left: 1400px;
+  background: #0066cc;
+}
+.message img {
+  width: 32px;
+  height: 30px;
+  margin-top: 15px;
+  margin-left: 14px;
+  padding: 0.024324536323547363px 0.5637842416763306px 0.5044420957565308px
+    0.7754052877426147px;
+}
+.introducing-digital {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 0px;
+}
+.introducing {
+  width: 267px;
+  height: 44px;
+  margin-top: 100px;
+  margin-left: 690px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.digital {
+  width: 444px;
+  height: 48px;
+  margin-top: 68px;
+  margin-left: 590px;
+}
+.code-img img {
+  width: 530px;
+  height: 451px;
+  margin-top: 28px;
+  margin-left: 100px;
+}
